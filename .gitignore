@@ -1,2 +1,8 @@
 ideas.md
 datasets
+stockfish
+lichess_db
+venv/
+.venv/
+env/
+__pycache__/
