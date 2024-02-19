@@ -10,6 +10,8 @@ Initial dataset with chess games is sourced from kaggle: https://www.kaggle.com/
 
 For finding more games either to broaden the dataset or to find games played by cheaters it is planned to use in the future lichess db and API and chesscom API
 
+Stockfish engine: https://stockfishchess.org/download/
+
 Lichess database: https://database.lichess.org/
 
 Lichess API: https://lichess.org/api
