@@ -1,0 +1,8 @@
+
+stockfish="C:\\Users\\User\\Desktop\\stockfish\\stockfish-windows-x86-64-avx2.exe"
+
+[lichess_db]
+catalog = "lichess_db"
+zst_compressed_db = "lichess_db_standard_rated_2014-04.pgn.zst"
+lichess_db_file = "lichess_db_201403.pgn"
+
